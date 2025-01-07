@@ -4,3 +4,9 @@ We found that the classification of single-pixel program measurements can be qui
 
 1. Chuli.py to get data.
 2. SPI-DA.py is experimental code.
+
+Suggestion：
+1、You can try MNIST or MNIST-FASION as the dataset.
+2. Mask could be a random binary group of codes with 0 and 1 as the pixels.
+
+We will put the our experimental datasets later.
